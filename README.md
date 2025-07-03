@@ -22,9 +22,7 @@ Installation
 
     bash
 
-    git clone https://github.com/yourusername/rex-vulnerability-scanner.git
-    cd rex-vulnerability-scanner
-
+    https://github.com/sarang-t/vulnerblity-scanner.git
     Ensure you have the necessary permissions and dependencies installed.
 
 Usage
