@@ -20,9 +20,11 @@ Installation
 
     Clone the repository:
 
-    bash
+
 
     https://github.com/sarang-t/vulnerblity-scanner.git
+    
+    
     Ensure you have the necessary permissions and dependencies installed.
 
 Usage
